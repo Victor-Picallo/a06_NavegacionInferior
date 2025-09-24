@@ -23,6 +23,7 @@
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
 
+    <!-- Aqui se anade el nuevo fragmento que hemos creado -->
     <fragment
         android:id="@+id/navigation_calls"
         android:name="com.example.a06_navegacioninferior.ui.calls.CallsFragment"

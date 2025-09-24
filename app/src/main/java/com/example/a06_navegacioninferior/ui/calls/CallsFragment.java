@@ -15,6 +15,7 @@ import com.example.a06_navegacioninferior.databinding.FragmentNotificationsBindi
 
 public class CallsFragment extends Fragment {
 
+    // Variable para el binding
     private FragmentCallsBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,

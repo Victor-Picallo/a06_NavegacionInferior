@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".ui.calls.CallsFragment">
 
+    <!-- Aqui se anade el nuevo TextView que hemos creado -->
     <TextView
         android:id="@+id/text_calls"
         android:layout_width="match_parent"

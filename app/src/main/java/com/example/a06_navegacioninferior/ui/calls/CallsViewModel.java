@@ -10,6 +10,7 @@ public class CallsViewModel extends ViewModel {
 
     public CallsViewModel() {
         mText = new MutableLiveData<>();
+        //Texto que queremos que se muestre en el fragmento
         mText.setValue("This is calls fragment");
     }
 
